@@ -3,11 +3,11 @@
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=155  src="https://github-readme-stats.vercel.app/api?username=Diogo-10&show_icons=true&theme=" />
+  <img height=155  src="https://github-readme-stats.vercel.app/api?username=Diogo-10&show_icons=true&theme=a" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
    
-  <img height=155  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-10&layout=compact&show_icons=true&theme=" />
+  <img height=155  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-10&layout=compact&show_icons=true&themea=" />
 </a>
 </div>
 
