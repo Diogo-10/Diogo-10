@@ -13,7 +13,7 @@
 &nbsp;&nbsp;
 [<img src="https://img.icons8.com/color/48/gmail-new.png" width="35" />](mailto:diogogf@hotmail.com)
 &nbsp;&nbsp;
-[<img src="https://img.icons8.com/color/48/resume.png" width="35" />](./curriculo/Diogo_Gomes_Ferreira_CV.pdf)
+[<img src="https://img.icons8.com/color/48/resume.png" width="35" alt="Currículo"/>](./Diogo_Gomes_FerreiraCV%20.pdf)
 
 ---
 
