@@ -71,8 +71,4 @@ Tenho interesse em oportunidades de estágio e posições júnior nas áreas de 
 
 <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Diogo-10&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Diogo-10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 </div>
