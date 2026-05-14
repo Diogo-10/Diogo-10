@@ -19,7 +19,7 @@
 
 ### Sobre mim
 
-Sou graduando em Sistemas de Informação com experiência prática em análise de dados, automações e desenvolvimento back-end.
+Atualmente estou graduando em Sistemas de Informação com experiência prática em análise de dados, automações e desenvolvimento back-end.
 
 Atualmente estou no estágio de Análise de Dados na **Prefeitura de Pinheiros**, onde trabalho com Power BI, Python, SQL, Selenium e Scrapy para construir dashboards, automatizar processos e apoiar decisões operacionais com dados.
 
