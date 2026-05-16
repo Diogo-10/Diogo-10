@@ -27,8 +27,6 @@ Tenho interesse em oportunidades de estágio e posições júnior nas áreas de 
 
 --- 
 
-## 💻 Tecnologias e Ferramentas
-
 <p align="left">
 
 ## 💻 Tecnologias e Ferramentas
