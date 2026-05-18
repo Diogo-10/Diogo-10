@@ -1,10 +1,5 @@
 <h1 align="center">Olá, eu sou o Diogo Gomes Ferreira 👨🏻‍💻</h1>
 
-<p align="center">
-  <b>Analista de Dados · Desenvolvedor Back-End · Automação & BI</b><br/>
-  <i>Sistemas de Informação — Faculdade Impacta de Tecnologia </i>
-</p>
-
 <div align="left">
 
 ## Contato e Currículo
